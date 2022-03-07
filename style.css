@@ -276,9 +276,6 @@ a:focus {
 	grid-area: 20 / 22 / 22 / 28;
 }
 
-.pos-6 {
-	grid-area: 27 / 25 / 38 / 38;
-}
 .content__title {
 	font-family: myFont;
 	font-weight: 400;
