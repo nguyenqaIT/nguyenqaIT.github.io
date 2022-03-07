@@ -257,27 +257,27 @@ a:focus {
 }
 
 .pos-11 {
- 	grid-area: 40 / 39 / 48 / 47;
+	grid-area: 18 / 33 / 33 / 39;
 }
 
 .pos-12 {
- 	grid-area: 2 / 20 / 10 / 47;
+	grid-area: 19 / 34 / 34 / 40;
 }
 
 .pos-13 {
- 	grid-area: 1 / 39 / 48 / 47;
+	grid-area: 16 / 31 / 31 / 37;
 }
 
 .pos-14 {
- 	grid-area: 5 / 39 / 48 / 47;
+	grid-area: 15 / 31 / 31 / 37;
 }
 
 .pos-15 {
- 	grid-area: 15 / 39 / 48 / 47;
+	grid-area: 20 / 22 / 22 / 28;
 }
 
-.pos-16 {
- 	grid-area: 2 / 39 / 48 / 47;
+.pos-6 {
+	grid-area: 27 / 25 / 38 / 38;
 }
 .content__title {
 	font-family: myFont;
